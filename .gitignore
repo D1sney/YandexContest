@@ -1,0 +1,45 @@
+# Кеши Python
+__pycache__/
+pycache/
+**/.__pycache__/
+**/.pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи
+logs/
+*.log
+
+# Секретные файлы
+.env
+*.pem
+*.key
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+**/.venv
+**/venv
+
+# Редакторы кода
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+
+# Дополнительно
+tokens.json
+**/tokens.json
+
+# Файлы
+**.xls
+**.pdf
+
+# Тесты
+**/.pytest_cache
