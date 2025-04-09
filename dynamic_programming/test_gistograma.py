@@ -1,6 +1,6 @@
 import io
 import sys
-from gistograma import get_gistograma
+from dynamic_programming.Гистограмма import get_gistograma
 
 # тест гистограмы больше не работает, потому что я поменя чтение данных в гистограме с терминала, на файл
 
